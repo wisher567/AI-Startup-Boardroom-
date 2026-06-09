@@ -1,0 +1,42 @@
+# Environment
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+backend/.venv/
+*.egg
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Databases
+chroma_db/
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+frontend/dist/
+
+# Claude/Codex
+.commandcode/
+
+# Temp
+*.log
+*.tmp

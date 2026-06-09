@@ -1,0 +1,409 @@
+{"type": "primer_running", "message": "Agents reviewing the problem...", "debate_id": "debug-001"}
+{"type": "memory_recall", "debate_id": "debug-001", "memories": ["No debate history to summarise."], "relevance_scores": [0.0]}
+{"type": "persona_generated", "name": "Hostel Hopper Hiran", "background": "Hiran is a second-year engineering student living in a cramped, shared hostel room near the University of Moratuwa. He survives on a tight monthly allowance from his parents in Kandy and relies on cheap, filling meals to get through long lab sessions.", "reaction_style": "skeptical", "debate_id": "debug-001"}
+{"type": "persona_generated", "name": "Commuting Clinician Keshani", "background": "Keshani is a final-year medical student at the University of Colombo who commutes daily from her family's upscale apartment in Nawala. She has a demanding clinical rotation schedule and disposable income, but zero time to cook or wait in line at crowded campus cafeterias.", "reaction_style": "enthusiastic", "debate_id": "debug-001"}
+{"type": "industry_partner_generated", "name": "Mr. Sampath Perera", "industry": "Owner of 'Campus Bites', a network of high-volume student canteens", "reach": "12 outlets across Colombo, Moratuwa, and Peradeniya, serving roughly 8,500 meals daily to students and staff.", "debate_id": "debug-001"}
+{"type": "primer_complete", "message": "Agents ready. Debate starting.", "debate_id": "debug-001"}
+{"type": "routing_update", "debate_id": "debug-001", "round": 1, "turn_order": ["CEO", "CTO", "CMO", "COO", "MarketAnalyst", "CFO", "UX", "Legal", "Investor", "Customer Persona 1", "Customer Persona 2", "Industry Partner", "Chaos", "Critic"], "reason": "initial_order"}
+{"type": "agent_token", "agent": "CEO", "token": "{\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " \"agent\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "CEO\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " \"role\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "CEO\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " \"message\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "We launch our hyper", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "-local, campus-exclusive", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " MVP in 6", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "0 days. We", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " must capture student mind", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "share before PickMe", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " and UberEats", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " pivot. But here", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "\u2019s my core fear", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": ": we build a", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " flawless app, yet", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " get crushed by their", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " network effects and predatory", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " discounting. I", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " need this answered right", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " now: What is", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " the single unique value", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " proposition that will make", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " a student choose us", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " over UberEats", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " even when UberE", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "ats is offering a", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " massive discount? Give", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " me the moat", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": ", not just the", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " features.\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " \"trust_deltas", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "\": {},\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": " \"flags\": []", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CEO", "token": "\n}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "CEO", "role": "CEO", "message": "We launch our hyper-local, campus-exclusive MVP in 60 days. We must capture student mindshare before PickMe and UberEats pivot. But here\u2019s my core fear: we build a flawless app, yet get crushed by their network effects and predatory discounting. I need this answered right now: What is the single unique value proposition that will make a student choose us over UberEats even when UberEats is offering a massive discount? Give me the moat, not just the features.", "trust_deltas": {}, "flags": [], "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "{\"agent\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " \"CTO\",", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " \"role\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "CTO\", \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "message\": \"A", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " 'flawless", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " app' in ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "60 days handling", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " Sri Lanka's erratic", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " GPS is technically impossible", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": ". Your 'mo", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "at' won't", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " be a shiny feature", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "; it's operational", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " survival. To hit", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " your deadline using off", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "-the-shelf APIs", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " and serverless back", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "ends, we must", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " accept a relaxed uptime", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " SLA and manual", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " dispatch fallbacks for", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " three months. Our", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " biggest threat isn't", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " UberEats'", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " discounts; it's", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " system failure during peak", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " dinner spikes and localized", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " payment gateway downtime.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " Are you authorizing", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " these manual fallbacks", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " to accelerate time-to", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "-market, or are", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " we delaying launch?\",", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": " \"trust_deltas", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "\": {}, \"flags", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "\": [\"scalability", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CTO", "token": "_concern\"]}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "CTO", "role": "CTO", "message": "A 'flawless app' in 60 days handling Sri Lanka's erratic GPS is technically impossible. Your 'moat' won't be a shiny feature; it's operational survival. To hit your deadline using off-the-shelf APIs and serverless backends, we must accept a relaxed uptime SLA and manual dispatch fallbacks for three months. Our biggest threat isn't UberEats' discounts; it's system failure during peak dinner spikes and localized payment gateway downtime. Are you authorizing these manual fallbacks to accelerate time-to-market, or are we delaying launch?", "trust_deltas": {}, "flags": ["scalability_concern"], "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "{", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\n  \"agent", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\": \"CMO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\",\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "role\": \"CM", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "O\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " \"message\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "Our moat isn", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\u2019t code; it", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\u2019s identity. Uber", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "Eats is a", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " corporate suit; we", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\u2019re a student-owned", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " rebellion. First-year", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " hostel kids pooling cash", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " for late-night feeds", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " crave social validation,", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " not perfect GPS.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " CTO, stop", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " over-engineering.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " If GPS fails,", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " manual fallbacks are", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " fine; we\u2019ll", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " reframe it as", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " 'community-powered'", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " delivery. We'll", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " hijack WhatsApp groups", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " and launch cafeteria guerr", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "illa stunts.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " When UberEats", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " drops prices, we", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " drop culture. They", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " buy transactions; we", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " engineer FOMO.\",", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\n  \"trust", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "_deltas\": {", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\n    \"CEO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\": 1,", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\n    \"CT", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "O\": -1", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\n  },\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "  \"flags\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": " [\n    \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "positioning_opportunity", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\"\n  ]", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CMO", "token": "\n}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "CMO", "role": "CMO", "message": "Our moat isn\u2019t code; it\u2019s identity. UberEats is a corporate suit; we\u2019re a student-owned rebellion. First-year hostel kids pooling cash for late-night feeds crave social validation, not perfect GPS. CTO, stop over-engineering. If GPS fails, manual fallbacks are fine; we\u2019ll reframe it as 'community-powered' delivery. We'll hijack WhatsApp groups and launch cafeteria guerrilla stunts. When UberEats drops prices, we drop culture. They buy transactions; we engineer FOMO.", "trust_deltas": {"CEO": 1.0, "CTO": -1.0}, "flags": ["positioning_opportunity"], "debate_id": "debug-001"}
+{"type": "trust_update", "debate_id": "debug-001", "updates": [{"from": "CMO", "to": "CEO", "old": 0.75, "new": 0.98, "delta": 1.0}, {"from": "CMO", "to": "CTO", "old": 0.5, "new": 0.05, "delta": -1.0}], "matrix_snapshot": {"CEO": {"CTO": 0.7, "CFO": 0.55, "CMO": 0.7, "COO": 0.6, "Investor": 0.45, "Legal": 0.5, "UX": 0.55, "MarketAnalyst": 0.6, "Critic": 0.5, "Chaos": 0.45}, "CTO": {"CEO": 0.65, "CFO": 0.6, "CMO": 0.5, "COO": 0.65, "Investor": 0.5, "Legal": 0.55, "UX": 0.6, "MarketAnalyst": 0.65, "Critic": 0.55, "Chaos": 0.4}, "CFO": {"CEO": 0.5, "CTO": 0.7, "CMO": 0.45, "COO": 0.7, "Investor": 0.65, "Legal": 0.6, "UX": 0.45, "MarketAnalyst": 0.65, "Critic": 0.6, "Chaos": 0.35}, "CMO": {"CEO": 0.98, "CTO": 0.05, "CFO": 0.45, "COO": 0.55, "Investor": 0.5, "Legal": 0.45, "UX": 0.7, "MarketAnalyst": 0.65, "Critic": 0.45, "Chaos": 0.55}, "COO": {"CEO": 0.65, "CTO": 0.65, "CFO": 0.7, "CMO": 0.55, "Investor": 0.55, "Legal": 0.6, "UX": 0.55, "MarketAnalyst": 0.6, "Critic": 0.55, "Chaos": 0.4}, "Investor": {"CEO": 0.4, "CTO": 0.65, "CFO": 0.7, "CMO": 0.45, "COO": 0.55, "Legal": 0.6, "UX": 0.45, "MarketAnalyst": 0.75, "Critic": 0.7, "Chaos": 0.35}, "Legal": {"CEO": 0.55, "CTO": 0.6, "CFO": 0.65, "CMO": 0.5, "COO": 0.6, "Investor": 0.55, "UX": 0.55, "MarketAnalyst": 0.6, "Critic": 0.6, "Chaos": 0.35}, "UX": {"CEO": 0.6, "CTO": 0.55, "CFO": 0.45, "CMO": 0.7, "COO": 0.55, "Investor": 0.45, "Legal": 0.5, "MarketAnalyst": 0.6, "Critic": 0.5, "Chaos": 0.5}, "MarketAnalyst": {"CEO": 0.6, "CTO": 0.65, "CFO": 0.65, "CMO": 0.6, "COO": 0.6, "Investor": 0.7, "Legal": 0.55, "UX": 0.55, "Critic": 0.65, "Chaos": 0.4}, "Critic": {"CEO": 0.45, "CTO": 0.65, "CFO": 0.65, "CMO": 0.4, "COO": 0.55, "Investor": 0.65, "Legal": 0.6, "UX": 0.5, "MarketAnalyst": 0.65, "Chaos": 0.4}, "Chaos": {"CEO": 0.55, "CTO": 0.45, "CFO": 0.35, "CMO": 0.6, "COO": 0.4, "Investor": 0.4, "Legal": 0.35, "UX": 0.6, "MarketAnalyst": 0.5, "Critic": 0.45}}}
+{"type": "agent_token", "agent": "COO", "token": "{", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "\n  \"agent", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "\": \"COO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "\",\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "role\": \"CO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "O\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " \"message\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "Culture doesn't deliver", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " food. Our mo", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "at is operational survival", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " at campus gates.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " CTO, I", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " authorize manual dispatch fallback", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "s; ship MVP", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " by Day 4", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "5. CMO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": ", drop guerrilla", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " stunts - scope", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " creep. Focus on", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " WhatsApp onboarding by", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " Day 20", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": ". My execution concern", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " is rider churn and", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " gate bottlenecks", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": ". If security blocks", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " riders, we fail", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": ". I will personally", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " map drop-off zones", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " and negotiate access protocols", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " with security at the", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " top five universities by", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " Day 30", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": ". Flagging execution", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "_risk on CEO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "'s 60", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "-day timeline without gate", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " access. Let's", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " execute.\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " \"trust_deltas", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "\": {},\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": " \"flags\": [", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "\n    \"execution", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "_risk\"\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "COO", "token": "  ]\n}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "COO", "role": "COO", "message": "Culture doesn't deliver food. Our moat is operational survival at campus gates. CTO, I authorize manual dispatch fallbacks; ship MVP by Day 45. CMO, drop guerrilla stunts - scope creep. Focus on WhatsApp onboarding by Day 20. My execution concern is rider churn and gate bottlenecks. If security blocks riders, we fail. I will personally map drop-off zones and negotiate access protocols with security at the top five universities by Day 30. Flagging execution_risk on CEO's 60-day timeline without gate access. Let's execute.", "trust_deltas": {}, "flags": ["execution_risk"], "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "{", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "\n  \"agent", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "\": \"MarketAnal", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "yst\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " \"role\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "Market Analyst\",\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "  \"message\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " \"The Sri L", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "ankan food delivery TAM", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " is large, but", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " your SAM/SOM", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " is shrinking as the", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " macroeconomic squeeze forces", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " students to cook or", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " walk to cante", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "ens. Your actual", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " competitors aren't just", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " PickMe Food and", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " UberEats;", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " it's the informal", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " WhatsApp-based student delivery", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " networks. CMO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "'s '", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "rebellion' ignores", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " that these WhatsApp networks", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " already dominate the hyper", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "-local ghost cante", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "en trend with zero", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " overhead. You face", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " a hard ceiling on", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " willingness to pay.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " Flagging market_r", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "isk: PickMe", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " and UberEats", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " can instantly outsp", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "end you in this", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " micro-niche.\",", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "\n  \"trust", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "_deltas\": {", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "\n    \"CM", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "O\": -2", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": ",\n    \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "CEO\": -1", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "\n  },\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "  \"flags\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": " [\n    \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "market_risk\"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "\n  ]\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "MarketAnalyst", "token": "}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "MarketAnalyst", "role": "Market Analyst", "message": "The Sri Lankan food delivery TAM is large, but your SAM/SOM is shrinking as the macroeconomic squeeze forces students to cook or walk to canteens. Your actual competitors aren't just PickMe Food and UberEats; it's the informal WhatsApp-based student delivery networks. CMO's 'rebellion' ignores that these WhatsApp networks already dominate the hyper-local ghost canteen trend with zero overhead. You face a hard ceiling on willingness to pay. Flagging market_risk: PickMe and UberEats can instantly outspend you in this micro-niche.", "trust_deltas": {"CMO": -2.0, "CEO": -1.0}, "flags": ["market_risk"], "debate_id": "debug-001"}
+{"type": "trust_update", "debate_id": "debug-001", "updates": [{"from": "MarketAnalyst", "to": "CMO", "old": 0.6, "new": 0.05, "delta": -2.0}, {"from": "MarketAnalyst", "to": "CEO", "old": 0.6, "new": 0.05, "delta": -1.0}], "matrix_snapshot": {"CEO": {"CTO": 0.7, "CFO": 0.55, "CMO": 0.7, "COO": 0.6, "Investor": 0.45, "Legal": 0.5, "UX": 0.55, "MarketAnalyst": 0.6, "Critic": 0.5, "Chaos": 0.45}, "CTO": {"CEO": 0.65, "CFO": 0.6, "CMO": 0.5, "COO": 0.65, "Investor": 0.5, "Legal": 0.55, "UX": 0.6, "MarketAnalyst": 0.65, "Critic": 0.55, "Chaos": 0.4}, "CFO": {"CEO": 0.5, "CTO": 0.7, "CMO": 0.45, "COO": 0.7, "Investor": 0.65, "Legal": 0.6, "UX": 0.45, "MarketAnalyst": 0.65, "Critic": 0.6, "Chaos": 0.35}, "CMO": {"CEO": 0.98, "CTO": 0.05, "CFO": 0.45, "COO": 0.55, "Investor": 0.5, "Legal": 0.45, "UX": 0.7, "MarketAnalyst": 0.65, "Critic": 0.45, "Chaos": 0.55}, "COO": {"CEO": 0.65, "CTO": 0.65, "CFO": 0.7, "CMO": 0.55, "Investor": 0.55, "Legal": 0.6, "UX": 0.55, "MarketAnalyst": 0.6, "Critic": 0.55, "Chaos": 0.4}, "Investor": {"CEO": 0.4, "CTO": 0.65, "CFO": 0.7, "CMO": 0.45, "COO": 0.55, "Legal": 0.6, "UX": 0.45, "MarketAnalyst": 0.75, "Critic": 0.7, "Chaos": 0.35}, "Legal": {"CEO": 0.55, "CTO": 0.6, "CFO": 0.65, "CMO": 0.5, "COO": 0.6, "Investor": 0.55, "UX": 0.55, "MarketAnalyst": 0.6, "Critic": 0.6, "Chaos": 0.35}, "UX": {"CEO": 0.6, "CTO": 0.55, "CFO": 0.45, "CMO": 0.7, "COO": 0.55, "Investor": 0.45, "Legal": 0.5, "MarketAnalyst": 0.6, "Critic": 0.5, "Chaos": 0.5}, "MarketAnalyst": {"CEO": 0.05, "CTO": 0.65, "CFO": 0.65, "CMO": 0.05, "COO": 0.6, "Investor": 0.7, "Legal": 0.55, "UX": 0.55, "Critic": 0.65, "Chaos": 0.4}, "Critic": {"CEO": 0.45, "CTO": 0.65, "CFO": 0.65, "CMO": 0.4, "COO": 0.55, "Investor": 0.65, "Legal": 0.6, "UX": 0.5, "MarketAnalyst": 0.65, "Chaos": 0.4}, "Chaos": {"CEO": 0.55, "CTO": 0.45, "CFO": 0.35, "CMO": 0.6, "COO": 0.4, "Investor": 0.4, "Legal": 0.35, "UX": 0.6, "MarketAnalyst": 0.5, "Critic": 0.45}}}
+{"type": "agent_token", "agent": "CFO", "token": "{\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "agent\": \"C", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "FO\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " \"role\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "CFO\",\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "  \"message\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " \"CEO, cut", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " your revenue projections by", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " 40%;", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " students will browse our", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " app but order via", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " zero-fee WhatsApp", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " networks. CMO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "'s culture does not", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " pay for fuel.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " A 10", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "% fuel spike ble", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "eds $15", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": ",000", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " per month at ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "5,00", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "0 orders. We", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " must enforce zero-s", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "ubsidy delivery fees", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " from Day 1", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": ". I will not", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " approve COO's", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " 45-day", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " launch without a unit", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " economics model proving greater", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " than 15", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "% contribution margin after", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " rider payouts and under", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " 45-day", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " CAC payback", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": ". COO,", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " secure gate protocols;", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " operational friction destroys margins", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": ". CMO,", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " cancel guerrilla st", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "unts to protect runway", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": ".\",\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "trust_deltas\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": " {},\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "flags\": []\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "CFO", "token": "}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "CFO", "role": "CFO", "message": "CEO, cut your revenue projections by 40%; students will browse our app but order via zero-fee WhatsApp networks. CMO's culture does not pay for fuel. A 10% fuel spike bleeds $15,000 per month at 5,000 orders. We must enforce zero-subsidy delivery fees from Day 1. I will not approve COO's 45-day launch without a unit economics model proving greater than 15% contribution margin after rider payouts and under 45-day CAC payback. COO, secure gate protocols; operational friction destroys margins. CMO, cancel guerrilla stunts to protect runway.", "trust_deltas": {}, "flags": [], "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "{\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " \"agent", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "\": \"UX\",", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "\n  \"role", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "\": \"UX Lead", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "\",\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "message\": \"Students", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " are stressed, hungry", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": ", and anxious about", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " data while walking.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " Our moat against", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " informal WhatsApp networks is", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " a frictionless,", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " one-thumb, ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "3-tap reorder", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " with in-app bill", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " splitting. CMO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": ", pushing users to", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " WhatsApp adds steps and", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " destroys our core value", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": ". The home screen", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " must be a lightweight", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": ", text-heavy dashboard", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " showing their top ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "3 past meals and", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " canteen countdown", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "s. No heavy", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " maps draining battery or", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " data. If we", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " force them off-app", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " or add a fourth", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " tap, they will", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " abandon the cart in", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " frustration.\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " \"trust_deltas", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "\": {},\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": " \"flags\": [", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "\n    \"ux", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "_concern\"\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "UX", "token": "  ]\n}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "UX", "role": "UX Lead", "message": "Students are stressed, hungry, and anxious about data while walking. Our moat against informal WhatsApp networks is a frictionless, one-thumb, 3-tap reorder with in-app bill splitting. CMO, pushing users to WhatsApp adds steps and destroys our core value. The home screen must be a lightweight, text-heavy dashboard showing their top 3 past meals and canteen countdowns. No heavy maps draining battery or data. If we force them off-app or add a fourth tap, they will abandon the cart in frustration.", "trust_deltas": {}, "flags": ["ux_concern"], "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "{", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "\n  \"agent", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "\": \"Legal\",", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "\n  \"role", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "\": \"Legal Counsel", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "\",\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "message\": \"CM", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "O's WhatsApp integration", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " and UX's data", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " handling risk violating Sri", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " Lanka's Personal Data", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " Protection Act No.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " 9 of ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "2022", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "; unauthorized student data", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " sharing incurs fines", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " up to LKR", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " 10M", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " and director liability.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " Furthermore, COO", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "'s 45", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "-day rider launch without", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " vetted independent contractor", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " agreements invites misclassification", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " claims under the Shop", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " and Office Employees Act", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": ". If labor tribun", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "als reclassify riders", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": ", we face crippling", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " retroactive EPF", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "/ETF backpay", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": ". Flagging legal", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "_risk. Launch", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " is blocked until local", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " counsel finalizes contractor", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " agreements and we secure", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " mandatory third-party liability", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " insurance for mass food", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " poisoning and transit accidents", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": ".\",\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "trust_deltas\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": " {},\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "flags\": [\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "    \"legal", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "_risk\"\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Legal", "token": "  ]\n}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "Legal", "role": "Legal Counsel", "message": "CMO's WhatsApp integration and UX's data handling risk violating Sri Lanka's Personal Data Protection Act No. 9 of 2022; unauthorized student data sharing incurs fines up to LKR 10M and director liability. Furthermore, COO's 45-day rider launch without vetted independent contractor agreements invites misclassification claims under the Shop and Office Employees Act. If labor tribunals reclassify riders, we face crippling retroactive EPF/ETF backpay. Flagging legal_risk. Launch is blocked until local counsel finalizes contractor agreements and we secure mandatory third-party liability insurance for mass food poisoning and transit accidents.", "trust_deltas": {}, "flags": ["legal_risk"], "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "{\n  \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "agent\": \"Invest", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "or\",\n ", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " \"role\": \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "Investor\",\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "  \"message\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " \"I watched student", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "-delivery apps in", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " LatAm burn $", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "10M and", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " die from graduation churn", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": ". CFO is right", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": ": 5,", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "000 orders", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " at $0.", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "50 margin is", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " $2,5", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "00/mo", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": ". That\u2019s a", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " bottoms-up reality check", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": ", not a venture", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " TAM. Flagging", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " investment_concern on", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " standalone delivery. Answer", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " three questions: How", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " do you expand beyond", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " campus for LTV", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "? What\u2019s the", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " exit if UberE", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "ats outspends", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " you? Is this", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " a Trojan horse for", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " student fintech?", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " I\u2019ll write the", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " check if you prove", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " this is a ne", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "obank capturing financial", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " identity, not just", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " food delivery.\",\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "  \"trust_d", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "eltas\": {},\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "  \"flags\":", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": " [\n    \"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "investment_concern\"", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "\n  ]\n", "debate_id": "debug-001"}
+{"type": "agent_token", "agent": "Investor", "token": "}", "debate_id": "debug-001"}
+{"type": "agent_message", "round": 1, "agent": "Investor", "role": "Investor", "message": "I watched student-delivery apps in LatAm burn $10M and die from graduation churn. CFO is right: 5,000 orders at $0.50 margin is $2,500/mo. That\u2019s a bottoms-up reality check, not a venture TAM. Flagging investment_concern on standalone delivery. Answer three questions: How do you expand beyond campus for LTV? What\u2019s the exit if UberEats outspends you? Is this a Trojan horse for student fintech? I\u2019ll write the check if you prove this is a neobank capturing financial identity, not just food delivery.", "trust_deltas": {}, "flags": ["investment_concern"], "debate_id": "debug-001"}
